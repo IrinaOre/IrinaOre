@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Irina Orekhova.</h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Frontend-developer student from Russia 🇷🇺</h3>
 
 ![Banner Image]((https://images.unsplash.com/photo-1454262041357-5d96f50a2f27?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fHdoaXRlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D))
 
