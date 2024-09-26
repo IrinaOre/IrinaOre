@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi there! I'm Irina Orekhova</h1>
+<h1 align="center">Hi there.</h1>
+<h1>I'm Irina Orekhova</h1>
 <h3>Frontend-developer</h3>
 
 I'm Irina Orekhova from Russia, and I build layouts of webpages. 
