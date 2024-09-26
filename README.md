@@ -5,8 +5,8 @@
 I'm Irina Orekhova from Russia, and I build layouts of webpages. I'm constantly working on quality and consistency of my projects, accumulating new knowleges. I really enjoy what I'm doing.
 
 
-<img align="left" src="https://images.unsplash.com/photo-1492827016231-736013acccc0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="200">
-<img align="right" src="https://images.unsplash.com/photo-1492827016231-736013acccc0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="200">
+<img src="https://www.figma.com/design/bb5g1Huj88rbTEQ6qDydd1/Untitled?node-id=0-1&node-type=canvas&t=Wh5kfGwOmLiRSZa8-0">
+
 
 
 
