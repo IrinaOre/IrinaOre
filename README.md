@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Irina Orekhova.</h1>
 <h3 align="center">Frontend-developer</h3>
 
-<img src="https://images.unsplash.com/photo-1517607648415-b431854daa86?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww" width="400">
+<img src="https://images.unsplash.com/photo-1492827016231-736013acccc0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400">
 
 
 
