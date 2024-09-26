@@ -7,7 +7,7 @@ I'm Irina Orekhova from Russia, and I build layouts of webpages. I'm constantly 
 
 ##### HTML / CSS / JS
 
-###### You can contact me: irinaorek@mail.ru
+You can contact me: irinaorek@mail.ru
 
 
 
