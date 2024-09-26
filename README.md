@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I'm Irina Orekhova.</h1>
 <h3 align="center">Frontend-developer</h3>
 
-<img src="https://images.unsplash.com/photo-1517607648415-b431854daa86?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww">
+<img src="https://images.unsplash.com/photo-1517607648415-b431854daa86?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww" width="400">
 
-![image alt](https://images.unsplash.com/photo-1517607648415-b431854daa86?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww)
+
 
 **irinaorek@mail.ru**
 
