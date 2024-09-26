@@ -1,7 +1,9 @@
-[![MasterHead](https://unsplash.com/photos/white-and-black-yearly-planner-notebook-mexeVPlTB6k)](https://irinaore.io)
+
 <h1 align="center">Hi there, I'm Irina Orekhova.</h1>
 <h3 align="center">Frontend-developer student from Russia 🇷🇺</h3>
-<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/white-and-black-yearly-planner-notebook-mexeVPlTB6k">
+<img align="right" alt="coding" width="400"src="![image](https://github.com/user-attachments/assets/881896ab-2eb5-475c-a198-30ed35526a8d)
+">
+
 
 - 🌱 I’m currently learning **React.**
 
