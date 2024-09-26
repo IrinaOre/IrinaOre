@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Irina Orekhova.</h1>
-<h3 align="center">Frontend-developer student from Russia</h3>
+<h3 align="center">Frontend-developer</h3>
 
 **irinaorek@mail.ru**
 
