@@ -5,7 +5,7 @@
 I'm Irina Orekhova from Russia, and I build layouts of webpages. I'm constantly working on quality and consistency of my projects, accumulating new knowleges. I really enjoy what I'm doing.
 
 
-<img src="https://github.com/IrinaOre/IrinaOre/issues/1#issue-2549651142">
+![banner](https://github.com/IrinaOre/IrinaOre/issues/1#issue-2549651142)
 
 
 
