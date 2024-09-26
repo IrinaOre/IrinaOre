@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Irina Orekhova.</h1>
 <h3 align="center">Frontend-developer student from Russia 🇷🇺</h3>
-<img align="right" alt="coding" width="400"src="![image](https://github.com/user-attachments/assets/881896ab-2eb5-475c-a198-30ed35526a8d)
+<img align="right" alt="coding" width="400"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZpYnFyeWZya2Y4enhlN3RwcGN3ZnE2MG1ncWZubmdwbHFsN3ZqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.webp
 ">
 
 
