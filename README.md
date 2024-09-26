@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there!</h1>
+<h1 align="center">Welcome!</h1>
 <h3>Frontend-developer</h3>
 
 I'm Irina Orekhova from Russia, and I build layouts of webpages. I'm constantly working on quality and consistency of my projects, accumulating knowleges needed for my profession.
