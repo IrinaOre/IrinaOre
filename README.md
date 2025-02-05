@@ -9,7 +9,6 @@
 :white_check_mark: **JavaScript**
 
 ---
-
-## [Резюме](./cv.png)
-
 Telegram: @IrinaOrek
+---
+
