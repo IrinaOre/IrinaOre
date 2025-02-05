@@ -9,6 +9,6 @@
 :white_check_mark: **JavaScript**
 
 ---
-Telegram: @IrinaOrek
+###### Telegram: @IrinaOrek
 ---
 
